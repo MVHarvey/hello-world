@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+I came here to make sure the codez be beautiful.
